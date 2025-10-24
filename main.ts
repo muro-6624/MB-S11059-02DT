@@ -1,4 +1,4 @@
-//% color="#696969" weight=100 icon="\uf75b"
+//% color="#696969" weight=100 icon="\uf5bc"
 namespace カラーセンサー {
     let IR = 0
     let B = 0
